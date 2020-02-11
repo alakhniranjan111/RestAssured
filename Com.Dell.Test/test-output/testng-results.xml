@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26800" started-at="2020-02-11T14:12:45 IST" finished-at="2020-02-11T14:13:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26800" started-at="2020-02-11T14:12:45 IST" finished-at="2020-02-11T14:13:12 IST">
+      <class name="Com.Dell.Test.Com.Dell.Test.AppTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:Com.Dell.Test.Com.Dell.Test.AppTest@6366ebe0]" name="test" duration-ms="26763" started-at="2020-02-11T14:12:45 IST" finished-at="2020-02-11T14:13:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Com.Dell.Test.Com.Dell.Test.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
