@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Com.Dell.Test.Com.Dell.Test.AppTest">
+      <class name="testWorkflow.Seleniumtest">
         <methods>
           <include name="test"/>
         </methods>
-      </class> <!-- Com.Dell.Test.Com.Dell.Test.AppTest -->
+      </class> <!-- testWorkflow.Seleniumtest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
